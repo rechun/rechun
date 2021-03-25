@@ -6,6 +6,4 @@ I'm rechun（阿纯）, a Chinese front-end web developer .
  
 Contact me
 
-https://github.com/rechun
-
 rechun1102@gmail.com
