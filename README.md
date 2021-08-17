@@ -9,4 +9,5 @@ Contact me
 rechun1102@gmail.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rechun)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rechun&show_icons=true&theme=radical)
+
